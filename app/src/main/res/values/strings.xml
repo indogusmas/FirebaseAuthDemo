@@ -4,4 +4,11 @@
     <string name="enter_your_name">Enter Your Name</string>
     <string name="enter_your_email">Enter Your Email</string>
     <string name="ready_register_sign_up_here">Ready Register ? Sign Up here</string>
+
+    <string name="have_account_sign_here">Have Account ? Sign Here</string>
+
+    <string name="enter_your_passoword">Enter Your Passoword</string>
+    <string name="enter_yor_email">Enter Yor Email</string>
+    <string name="login">Login</string>
+    <string name="no_account_sign_up_here">No Account ? Sign Up here</string>
 </resources>
